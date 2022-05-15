@@ -10,6 +10,10 @@ deserts. Hydro automation sets specific parameters like temperature, light, humi
 
 **Design**
 
+![Circuit](https://user-images.githubusercontent.com/39572828/168495382-f310836b-e807-4da1-b50b-93b3cc9018da.JPG)
+
+
+
 Working Procedure:
 
 1.	To operate this whole system, we use the keypad for giving commands. After powering the device, the system asks to give password for logging in which is displayed in the LCD screen. We use the keypad of password entry. After logging in, a main menu is showed in the display. 
